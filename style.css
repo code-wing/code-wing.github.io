@@ -736,6 +736,8 @@ ul.connecticons li {margin-bottom:15px;}
 @media only screen and (min-width: 641px) and (max-width: 959px) {
 .sf-menu a { font-size:13px; letter-spacing:0; padding:6px 7px 8px;}
 .logo {margin-top:23px;}
+.logoTextRed {color:red;}
+.logoTextWhite {color: blue;}
 .sf-menu li:hover ul,.sf-menu li.sfHover ul {top: 78px; width:135px;}
 header .message .button {margin-top:30px;}
 header .message {top:100px;}
