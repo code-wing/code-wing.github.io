@@ -47,7 +47,7 @@ $('#discount')
   .prop('number', 0)
   .animateNumber(
     {
-      number: 45
+      number: 100
     },
     3000
   );
